@@ -1,0 +1,52 @@
+/*
+As mentioned on the tutorials, there should be a CASCADE of styles for CSS, and the top part has more control over the other element/component, that's why there should be caution in putting any alterations to the webpage.
+*/
+
+html{
+  font-size: 12px;
+}
+
+body{
+    font-size: 1.2rem;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
+    'Helvetica Neue', Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+        margin-top: 0px;
+        margin-right: 0px;
+        margin-bottom: 0px;
+        margin-left: 0px;
+    color: #333;
+    margin: 0;
+}
+
+main {
+    font-display: auto;
+}
+
+img {
+    display: block;   
+  }
+
+#image {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+  }
+
+li {
+    margin: 16px 0;
+  }
+  
+ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+  }
+  
+a {
+  color: #2187ab;
+}
+
