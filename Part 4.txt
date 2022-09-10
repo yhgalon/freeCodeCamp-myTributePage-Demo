@@ -1,3 +1,5 @@
 Using git reset, you need to make sure that you have checked the log
 
 use: git log, then you may use the ID where you need to reset, then you may now use git reset for it to return the value to its original content.
+
+FORKING means that you will get the same copy of the repo.
