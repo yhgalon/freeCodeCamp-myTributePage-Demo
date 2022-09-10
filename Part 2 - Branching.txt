@@ -1,0 +1,8 @@
+Part 2 - Branching
+
+- Branching is useful and critical for development as you may have places where you may test and find bugs, while having a running app on production.
+
+Remember:
+	- When branching, you need to use GIT BRANCH
+	- To create a NEW branch, just type GIT CHECKOUT -B <name of the branch>
+
