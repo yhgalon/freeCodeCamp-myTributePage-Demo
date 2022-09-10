@@ -1,0 +1,10 @@
+Steps for Git
+
+- first make sure that you have a repo where the file/s can be "pushed" to your Git
+- remember the commands
+
+	git add = means that you will be adding a file to be committed (queue)
+	git commit -m "<message/info here>"
+	git push -u (only for UPSTREAMING) origin <branch>
+
+- also there will be a private and public keys for SSH, make sure to follow those steps before you can be able to "push" the file/s to Git.
