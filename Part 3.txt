@@ -1,0 +1,3 @@
+Thing/s to remember:
+    Only MODIFIED items are allowed to have the "-am" on the git commit command.
+    And new ones will have none.
